@@ -8,3 +8,4 @@ zenm
 zheme \
 nan 
 bujiushi gongneng meishixian hennanshou .
+add song foolish...
